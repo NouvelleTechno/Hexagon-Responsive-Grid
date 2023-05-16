@@ -1,1 +1,1 @@
-# Hegagon-Responsive-Grid
+# Hexagon-Responsive-Grid
